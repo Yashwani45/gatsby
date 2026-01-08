@@ -72,7 +72,7 @@ Gatsby helps professional developers efficiently create maintainable, highly-per
 
 ## 🚀 Ship your first Gatsby site in 5 Minutes
 
-Click the link below to quickly try the workflow of developing, building, and deploying websites with Gatsby and Netlify.
+Click the link below to quickly try the workflow of developing, building,and deploying websites with Gatsby and Netlify.
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-blog&utm_source=github&utm_medium=link&utm_campaign=onboarding&utm_content=oss)
 
@@ -143,7 +143,7 @@ Gatsby is dedicated to building a welcoming, diverse, safe community. We expect 
 
 Whether you're helping us fix bugs, improve the docs, or spread the word, we'd love to have you as part of the Gatsby community!
 
-Check out our [**Contributing Guide**](https://www.gatsbyjs.com/contributing/) for ideas on contributing and setup steps for getting our repositories up and running on your local machine.
+Check out our [**Contributing Guide**](https://www.gatsbyjs.com/contributing/) for ideas on contributing and setup steps for getting our repositories up and running on your local machines.
 
 ### A note on how this repository is organized
 
